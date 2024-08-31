@@ -6,4 +6,4 @@ Año: 2024
 
 ITSSNA
 
-Ingenieria en Sistemas Computacionales
+ISC
