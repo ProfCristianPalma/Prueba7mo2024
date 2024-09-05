@@ -1,9 +1,9 @@
 # Prueba7mo2024
 
-Autor: Cristian Alonso Palma Sifuentes
+Estamos trabajando
 
-Año: 2024
+Dentro del archivo
 
-ITSSNA
+De la nueva rama
 
-Ingenieria en Sistemas Computacionales
+Llamada "Linea1"
